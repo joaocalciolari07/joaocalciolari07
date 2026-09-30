@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=460&lines=Cybersecurity+Analyst+%F0%9F%9B%A1%EF%B8%8F;Web+Security+%7C+Pentesting+%7C+Privacy" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaocalciolari07&label=Profile%20views&color=39FF14&style=flat-square" alt="views" />
-</p>
-
 ---
 
 Cybersecurity Analyst focado em **Web Security, Pentesting e Privacidade**.
